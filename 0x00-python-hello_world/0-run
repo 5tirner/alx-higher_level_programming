@@ -1,1 +1,1 @@
-python3 $PYFILE
+python3.12 $PYFILE
